@@ -10,3 +10,7 @@ processing software.
 Data is collected from EMDB on May 14th, 2015.
 It demonstrates the highest resolution and the average resolution of EM density
 map by each EM image data processing software.
+
+## Year_Map_Resolution.png
+Data is collected from EMDB on May 14th, 2015.
+It demonstrates the number of EM density maps published in each year.
