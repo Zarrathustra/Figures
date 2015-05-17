@@ -14,3 +14,6 @@ map by each EM image data processing software.
 ## Year_Map_Resolution.png
 Data is collected from EMDB on May 14, 2015.
 It demonstrates the number of EM density maps published in each year.
+
+## Normalized_Sinc.png
+It demonstrates a normalized sinc function. x ranges from -8 to 8.
