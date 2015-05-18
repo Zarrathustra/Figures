@@ -3,7 +3,7 @@ In this repo, there are some figures made by myself. If you use it, please refer
 
 ## Software_Map.png
 Data is collected from EMDB on May 14, 2015.
-It demonstrates the percentage of published EM density map by each EM image data
+It demonstrates the percentage of published EM density maps by each EM image data
 processing software.
 
 ## Software_Resolution.png
@@ -17,3 +17,8 @@ It demonstrates the number of EM density maps published in each year.
 
 ## Normalized_Sinc.png
 It demonstrates a normalized sinc function. x ranges from -8 to 8.
+
+## Software_Map_HighResolution.png
+Data is collected from EMDB on May 18, 2015.
+It demonstrates the percentage of published EM density maps at the resolution
+above 4 angstrom by each EM image data processing software.
