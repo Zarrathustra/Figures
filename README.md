@@ -26,7 +26,7 @@ above 4 angstrom by each EM image data processing software.
 ## RotationAverageCTFAstigmatism
 It demonstrates the rotation average result of ideal CTF with astigmatism.
 * Size: 512 x 512
-* lamda: 0.01$\A$
+* lamda: 0.01
 * DF1: 1e4
 * DF2: 2e4
 * ANG: PI / 2
