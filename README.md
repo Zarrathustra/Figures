@@ -23,7 +23,7 @@ Data is collected from EMDB on May 18, 2015.
 It demonstrates the percentage of published EM density maps at the resolution
 above 4 angstrom by each EM image data processing software.
 
-## RotationAverageCTFAstigmatism.png
+## Rotation_Average_CTF_Astigmatism.png
 It demonstrates the rotation average result of ideal CTF with astigmatism.
 * Size: 512 x 512
 * lambda: 0.01A
@@ -32,10 +32,16 @@ It demonstrates the rotation average result of ideal CTF with astigmatism.
 * ANG: PI / 2
 * Cs: 0
 
-## MotionCorrectionQuality.png
+## Motion_Correction_Quality.png
 A method developed by me to quantitive measure the quality of motion-correction.
 * Size: 3838 x 3710
 * lambda: 0.0196A
 * DF1: 17963
 * DF2: 18713
 * ANG: 45
+
+## Irradiation_Injury_FRC.png
+The Influence of irradiation injury on FRC of a cryo-EM stack. 
+The stack is a 32-frame movie. Using frames 3-14 as reference, the curve fitting
+is performed on FRC calculated between the reference and each 3-frame summation,
+shown in this figure.
