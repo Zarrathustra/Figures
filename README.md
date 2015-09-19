@@ -45,3 +45,7 @@ The Influence of irradiation injury on FRC of a cryo-EM stack.
 The stack is a 32-frame movie. Using frames 3-14 as reference, the curve fitting
 is performed on FRC calculated between the reference and each 3-frame summation,
 shown in this figure.
+
+## Pseudo_Even_Sphere_Seperation.png
+This figure demonstrates a pseudo-even speration of a sphere. This sphere is
+seperated into 1000 pieces, each indicated by a dot in this figure.
