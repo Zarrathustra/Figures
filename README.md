@@ -49,3 +49,6 @@ shown in this figure.
 ## Pseudo_Even_Sphere_Seperation.png
 This figure demonstrates a pseudo-even speration of a sphere. This sphere is
 seperated into 1000 pieces, each indicated by a dot in this figure.
+
+## Gaussian
+This figure demonstrates 2D Gaussian Distribution by 10000 samples.
