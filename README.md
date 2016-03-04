@@ -52,3 +52,9 @@ seperated into 1000 pieces, each indicated by a dot in this figure.
 
 ## Gaussian
 This figure demonstrates 2D Gaussian Distribution by 10000 samples.
+SIGMA1 = 1
+SIGMA2 = 1
+RHO = 0
+
+## Phi_Theta_Sphere.png
+This figure demonstrates phi and theta of an uniform distribution on a sphere.
