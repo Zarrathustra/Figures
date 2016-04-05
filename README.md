@@ -62,3 +62,7 @@ This figure demonstrates phi and theta of an uniform distribution on a sphere.
 ## MKB_FT_Compare.png
 A comparision between the curves of Modified Kaiser Bessel (MKB) function with
 different alpha.
+
+## Lambert_Projection.png
+Lambert Projection (Equal Area Projection) of Uniform Distribution Sphere
+Sampling.
