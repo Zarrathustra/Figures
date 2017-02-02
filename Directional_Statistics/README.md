@@ -39,3 +39,8 @@ $$
 \ennd{pmatrix}
 $$
 ```
+
+## Von_Mises_Distribution.png
+
+This figure demonstrates an **von Mises** Distribution with variouus of
+$\kappa$.
