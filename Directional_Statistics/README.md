@@ -44,3 +44,8 @@ $$
 
 This figure demonstrates an **von Mises** Distribution with variouus of
 $\kappa$.
+
+## Simulation_Von_Mises_Distribution.png
+
+The figures demonstrates an simulation of **von Mises** Distribution using Best
+& Fisher's Method.
